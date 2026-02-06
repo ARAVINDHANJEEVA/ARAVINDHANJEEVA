@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ARAVINDHANJEEVA
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning JAVA
-- 📫 How to reach me @ARAVINDHAN_J_23 at X
+- 📫 How to reach me at --
 - 😄 Pronouns: Master
 - ⚡ Fun fact: Always a learner 
 
