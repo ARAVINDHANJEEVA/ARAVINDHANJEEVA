@@ -2,7 +2,7 @@
 - 💻 Passionate about Coding, System Design, and Logical Thinking
 - 🌱 Currently mastering Java & Data Structures
 - 🚀 Goal: Build scalable software and real-world solutions
-- 📫 Connect with me on X (Twitter): @YourHandleHere
+- 📫 Connect with me on X (Twitter)
 - 😄 Pronouns: Master
 - ⚡ Fun fact: Relentless learner focused on continuous growth
 <!---
