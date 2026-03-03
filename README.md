@@ -1,11 +1,15 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aravindhan_J+%F0%9F%91%8B;Java+%7C+DSA+%7C+System+Design+Enthusiast;Building+Scalable+%26+Real-World+Solutions;Relentless+Learner+%E2%9A%A1)](https://git.io/typing-svg)
+<!-- Header Wave -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aravindhanjeeva&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20%7C%20DSA%20%7C%20System%20Design%20%7C%20Full-Stack&descAlignY=55&descSize=18)
 
-<!-- Profile Views + Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=ARAVINDHANJEEVA&style=for-the-badge&color=0e75b6)
-[![GitHub followers](https://img.shields.io/github/followers/ARAVINDHANJEEVA?style=for-the-badge&color=blue)](https://github.com/ARAVINDHANJEEVA)
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aravindhanjeeva+%F0%9F%91%8B;Java+%7C+DSA+%7C+System+Design+Enthusiast;Relentless+Learner+%E2%9A%A1+%7C+Always+Building;First+solve+the+problem%2C+then+write+the+code.)](https://git.io/typing-svg)
+
+<!-- Badges Row -->
+![Profile Views](https://komarev.com/ghpvc/?username=ARAVINDHANJEEVA&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ARAVINDHANJEEVA?style=for-the-badge&logo=github&color=blue&label=FOLLOWERS)](https://github.com/ARAVINDHANJEEVA?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/ARAVINDHANJEEVA?style=for-the-badge&logo=github&color=yellow&label=STARS)](https://github.com/ARAVINDHANJEEVA)
 
 </div>
 
@@ -16,38 +20,35 @@
 ```java
 public class Aravindhanjeeva {
 
-    String[] currentFocus  = { "Java", "Data Structures & Algorithms", "System Design" };
-    String   goal          = "Build scalable software and real-world solutions";
-    String   learning      = "Mastering Java internals + DSA patterns";
-    String   contact       = "X (Twitter)";
-    String   funFact       = "I debug code faster than I debug my life 😄";
-    boolean  openToWork    = true;
+    private final String[] focus     = { "Java", "Data Structures & Algorithms", "System Design" };
+    private final String   goal      = "Build scalable, real-world software solutions";
+    private final String   currently = "Mastering Java internals + advanced DSA patterns";
+    private final String[] interests = { "Clean Code", "Problem Solving", "Open Source" };
+    private final boolean  openToWork = true;
 
+    public String funFact() {
+        return "I treat every bug as a feature request in disguise. 🐛";
+    }
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
+
+<!-- skillicons.dev — open source, GitHub: tandpfun/skill-icons -->
 
 ### 💬 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,js&theme=dark)](https://skillicons.dev)
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+### 🌐 Web & Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### 🗄️ Database
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+
+### 🧰 Tools & Environment
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -55,10 +56,13 @@ public class Aravindhanjeeva {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARAVINDHANJEEVA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARAVINDHANJEEVA&theme=tokyonight&hide_border=true" width="48%" />
+<!-- github-readme-stats — github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=ARAVINDHANJEEVA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats"/>
+<!-- streak-stats — streak-stats.demolab.com (DenverCoder1) -->
+<img src="https://streak-stats.demolab.com?user=ARAVINDHANJEEVA&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVINDHANJEEVA&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVINDHANJEEVA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages"/>
 
 </div>
 
@@ -66,19 +70,21 @@ public class Aravindhanjeeva {
 
 ## 🏆 GitHub Trophies
 
+<!-- github-profile-trophy — github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ARAVINDHANJEEVA&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ARAVINDHANJEEVA&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
+<!-- github-readme-activity-graph — github.com/ashutosh00710/github-readme-activity-graph -->
 <div align="center">
 
-[![Aravindhanjeeva's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARAVINDHANJEEVA&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ARAVINDHANJEEVA&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -88,11 +94,43 @@ public class Aravindhanjeeva {
 
 <div align="center">
 
-![Snake animation](https://github.com/ARAVINDHANJEEVA/ARAVINDHANJEEVA/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- Snake — github.com/Platane/snk | Output served from your own repo branch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARAVINDHANJEEVA/ARAVINDHANJEEVA/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARAVINDHANJEEVA/ARAVINDHANJEEVA/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ARAVINDHANJEEVA/ARAVINDHANJEEVA/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
-> ⚙️ **Setup the snake:** Go to your repo → Actions → Add a workflow using [this guide](https://github.com/Platane/snk) to auto-generate the snake SVG.
+> ⚙️ **Snake setup:** Add [this GitHub Action](https://github.com/Platane/snk#readme) to auto-generate both light & dark SVGs into the `output` branch of your profile repo.
+
+---
+
+## 🎯 Roadmap
+
+| Status | Goal |
+|--------|------|
+| ✅ | Core Java & OOP |
+| ✅ | HTML, CSS, JavaScript, React |
+| ✅ | C / C++ Fundamentals |
+| ✅ | SQL & Relational DBs |
+| 🔄 | Advanced DSA — Trees, Graphs, DP |
+| ⏳ | System Design Principles |
+| ⏳ | Spring Boot & REST APIs |
+| ⏳ | Open Source Contributions |
+| ⏳ | End-to-End Full-Stack Project |
+
+---
+
+## 💡 Dev Quote of the Day
+
+<!-- github-readme-quotes — github.com/PiyushSuthar/github-readme-quotes -->
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
 
 ---
 
@@ -100,17 +138,12 @@ public class Aravindhanjeeva {
 
 <div align="center">
 
-[![Twitter/X](https://img.shields.io/badge/X_(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ARAVINDHANJEEVA)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ARAVINDHANJEEVA)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARAVINDHANJEEVA)
 
 </div>
 
 ---
 
-<div align="center">
-
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=00C8FF&height=100&section=footer)
-
-</div>
+<!-- Footer Wave -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
