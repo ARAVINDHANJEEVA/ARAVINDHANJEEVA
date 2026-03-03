@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>ARAVINDHANJEEVA</h1>
+<h1>ARAVINDHAN JEEVA</h1>
 <h3>Java Developer &nbsp;|&nbsp; DSA &nbsp;|&nbsp; System Design &nbsp;|&nbsp; Full-Stack</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ARAVINDHANJEEVA&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
