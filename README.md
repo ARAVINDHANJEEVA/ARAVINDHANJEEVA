@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aravindhanjeeva+%F0%9F%91%8B;Java+%7C+DSA+%7C+System+Design+Enthusiast;Building+Scalable+%26+Real-World+Solutions;Relentless+Learner+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Aravindhan_J+%F0%9F%91%8B;Java+%7C+DSA+%7C+System+Design+Enthusiast;Building+Scalable+%26+Real-World+Solutions;Relentless+Learner+%E2%9A%A1)](https://git.io/typing-svg)
 
 <!-- Profile Views + Followers -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ARAVINDHANJEEVA&style=for-the-badge&color=0e75b6)
@@ -93,17 +93,6 @@ public class Aravindhanjeeva {
 </div>
 
 > ⚙️ **Setup the snake:** Go to your repo → Actions → Add a workflow using [this guide](https://github.com/Platane/snk) to auto-generate the snake SVG.
-
----
-
-## 🎯 Current Goals
-
-- [x] Learn Core Java & OOP
-- [x] Start Data Structures & Algorithms
-- [ ] Master Advanced DSA (Trees, Graphs, DP)
-- [ ] Deep dive into System Design
-- [ ] Contribute to Open Source
-- [ ] Build a full-stack project end-to-end
 
 ---
 
