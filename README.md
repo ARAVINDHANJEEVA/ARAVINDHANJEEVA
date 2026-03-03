@@ -3,10 +3,6 @@
 <h1>ARAVINDHAN JEEVA</h1>
 <h3>Java Developer &nbsp;|&nbsp; DSA &nbsp;|&nbsp; System Design &nbsp;|&nbsp; Full-Stack</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ARAVINDHANJEEVA&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ARAVINDHANJEEVA?style=for-the-badge&logo=github&color=181717)](https://github.com/ARAVINDHANJEEVA?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ARAVINDHANJEEVA?style=for-the-badge&logo=github&color=f0c040)](https://github.com/ARAVINDHANJEEVA)
-
 </div>
 
 ---
