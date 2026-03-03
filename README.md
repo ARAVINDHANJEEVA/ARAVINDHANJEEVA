@@ -12,11 +12,11 @@
 ```java
 public class Aravindhanjeeva {
 
-    private final String[] focus      = { "Java", "Data Structures & Algorithms", "System Design" };
-    private final String   goal       = "Build scalable, real-world software solutions";
-    private final String   learning   = "Advanced DSA patterns + Java internals";
+    private String[] focus      = { "Java", "Data Structures & Algorithms", "System Design" };
+    private String   goal       = "Build scalable, real-world software solutions";
+    private String   learning   = "Advanced DSA patterns + Java internals";
     private final String[] principles = { "Clean Code", "Logical Thinking", "Continuous Growth" };
-    private final boolean  openToWork = true;
+    private boolean  openToWork = true;
 
     public String contact() {
         return "X (Twitter) → @Aravindhan_J23";
