@@ -78,10 +78,10 @@ public class Aravindhanjeeva {
 | `Done` | Core Java & OOP |
 | `Done` | C / C++ Fundamentals |
 | `Done` | HTML · CSS · JavaScript · React |
-| `Done` | SQL & Relational Databases |
+| `In Progress` | SQL & Relational Databases |
+| `In Progress` | Spring Boot & REST API Development |
 | `In Progress` | Advanced DSA — Trees · Graphs · Dynamic Programming |
 | `Planned` | System Design — HLD & LLD |
-| `Planned` | Spring Boot & REST API Development |
 | `Planned` | Open Source Contributions |
 | `Planned` | Full-Stack End-to-End Project |
 
