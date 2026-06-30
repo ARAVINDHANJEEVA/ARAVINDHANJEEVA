@@ -76,7 +76,7 @@ public class Aravindhanjeeva {
 | Status | Milestone |
 |---|---|
 | `Done` | Core Java & OOP |
-| `Done` | C / C++ Fundamentals |
+| `Done` | C / C++ / python3 Fundamentals |
 | `Done` | HTML · CSS · JavaScript · React |
 | `In Progress` | SQL & Relational Databases |
 | `In Progress` | Spring Boot & REST API Development |
