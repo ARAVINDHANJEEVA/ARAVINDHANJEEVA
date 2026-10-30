@@ -1,7 +1,9 @@
 <div align="center">
 
-<h1>ARAVINDHAN JEEVA</h1>
-<h3>Java Developer &nbsp;|&nbsp; DSA &nbsp;|&nbsp; System Design &nbsp;|&nbsp; Full-Stack</h3>
+# ARAVINDHAN J
+### Java & Kotlin Developer &nbsp;|&nbsp; Oracle Gen-AI Professional &nbsp;|&nbsp; System Design
+
+*Building scalable backend architectures, high-performance systems, and intelligent solutions.*
 
 </div>
 
@@ -10,13 +12,16 @@
 ### About Me
 
 ```java
-public class Aravindhanjeeva {
+public class AravindhanJeeva implements BackendEngineer {
 
-    private String[] focus      = { "Java", "Data Structures & Algorithms", "System Design" };
-    private String   goal       = "Build scalable, real-world software solutions";
-    private String   learning   = "Advanced DSA patterns + Java internals";
-    private final String[] principles = { "Clean Code", "Logical Thinking", "Continuous Growth" };
-    private boolean  openToWork = true;
+    private final String[] stack          = { "Java", "Kotlin", "Oracle DB", "MySQL", "DSA" };
+    private final String   certification  = "Oracle Certified Generative AI Professional";
+    private final String[] corePillars    = { "Data Structures & Algorithms", "System Design", "Enterprise AI" };
+    private final String[] principles     = { "Clean Architecture", "High Concurrency", "Continuous Growth" };
+
+    public String mission() {
+        return "Architecting clean, scalable, and resilient software powered by modern AI.";
+    }
 
     public String contact() {
         return "X (Twitter) → @Aravindhan_J23";
@@ -31,6 +36,7 @@ public class Aravindhanjeeva {
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -44,8 +50,9 @@ public class Aravindhanjeeva {
 
 **Database**
 
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-General-%23316192.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Tools & Environment**
 
@@ -57,39 +64,18 @@ public class Aravindhanjeeva {
 
 ---
 
-### Proficiency Overview
+### Core Focus Areas
 
-| Domain | Skills | Level |
-|---|---|---|
-| Core Java | OOP, Collections, Streams, Multithreading | `Intermediate` |
-| DSA | Arrays, LinkedList, Stack, Queue, Trees | `Intermediate` |
-| System Design | Basics — Scalability, Load Balancing | `Learning` |
-| Web Frontend | HTML, CSS, JS, React | `Intermediate` |
-| Database | MySQL, SQL Queries, Joins | `Intermediate` |
-| Low-Level | C, C++, Pointers, Memory Management | `Familiar` |
-| Scripting | Python — Scripting & Automation | `Familiar` |
-
----
-
-### Roadmap
-
-| Status | Milestone |
-|---|---|
-| `Done` | Core Java & OOP |
-| `Done` | C / C++ / python3 Fundamentals |
-| `Done` | HTML · CSS · JavaScript · React |
-| `In Progress` | SQL & Relational Databases |
-| `In Progress` | Spring Boot & REST API Development |
-| `In Progress` | Advanced DSA — Trees · Graphs · Dynamic Programming |
-| `Planned` | System Design — HLD & LLD |
-| `Planned` | Open Source Contributions |
-| `Planned` | Full-Stack End-to-End Project |
+- **Backend Engineering:** Designing resilient services and clean APIs using Java and Kotlin.
+- **Enterprise Relational Databases:** Schema design, transaction handling, and query tuning with Oracle Database and MySQL.
+- **Data Structures & Algorithms:** Practicing advanced problem-solving techniques and complexity optimization.
+- **System Design:** Understanding high-level and low-level architectural principles for scalable systems.
+- **Generative AI Integration:** Implementing enterprise-ready Gen-AI and LLM capabilities into backend pipelines.
 
 ---
 
 ### Connect
 
-[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Aravindhan_J23)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARAVINDHANJEEVA)
 
 ---
