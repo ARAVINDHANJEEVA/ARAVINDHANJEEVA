@@ -17,7 +17,7 @@ public class AravindhanJeeva implements BackendEngineer {
     private final String[] stack          = { "Java", "Kotlin", "Oracle DB", "MySQL", "DSA" };
     private final String   certification  = "Oracle Certified Generative AI Professional";
     private final String[] corePillars    = { "Data Structures & Algorithms", "System Design", "Enterprise AI" };
-    private final String[] principles     = { "Clean Architecture", "High Concurrency", "Continuous Growth" };
+    private final String[] principles     = { "Time management", "Discipline", "Consistency" };
 
     public String mission() {
         return "Architecting clean, scalable, and resilient software powered by modern AI.";
@@ -56,10 +56,12 @@ public class AravindhanJeeva implements BackendEngineer {
 
 **Tools & Environment**
 
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-%23000000.svg?style=for-the-badge&logo=webstorm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
@@ -76,7 +78,7 @@ public class AravindhanJeeva implements BackendEngineer {
 
 ### Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARAVINDHANJEEVA)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Aravindhan_J23)
 
 ---
 
